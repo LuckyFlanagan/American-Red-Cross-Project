@@ -11,13 +11,14 @@ body {
 
 h1, p {
     text-align: center;
-    font-family: 'Arvo', serif;
+    font-family: 'Indie Flower', cursive;
 	color: #F7F7F7  
 }
 
 h2 {
 	text-align: center;
-	font-family: 'Arvo', serif;
+	size: 100px;
+	font-family: 'Indie Flower', cursive;
 	color: #F7F7F7
 }
 
@@ -29,7 +30,7 @@ footer {
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #62661A;
-	font-family: 'Arvo', serif;
+	font-family: 'Indie Flower', cursive;
     overflow: hidden;
 }
 

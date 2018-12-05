@@ -1,5 +1,5 @@
 body {
-    background-color: #841D2B  
+    background-color: #3A2078  
 }
 #main {
     width: 1000px;
@@ -21,7 +21,7 @@ p {
 }
 
 .topnav {
-    background-color: #691621;
+    background-color: #24144D;
 	font-family: 'Architects Daughter', cursive;
     overflow: hidden;
 }
@@ -45,7 +45,7 @@ p {
 
 
 .active {
-    background-color: #a82435;
+    background-color: #532DAE;
     color: white;
 }
 
