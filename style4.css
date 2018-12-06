@@ -1,5 +1,5 @@
 body {
-    background-color: #9FA725
+    background-color: #9E276F
 }
 
 #main {
@@ -29,7 +29,7 @@ footer {
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #62661A;
+    background-color: #6F1B4E;
 	font-family: 'Indie Flower', cursive;
     overflow: hidden;
 }
@@ -53,7 +53,7 @@ footer {
 
 /* Add an active class to highlight the current page */
 .active {
-    background-color: #7F8523;
+    background-color: #99276C;
     color: white;
 }
 
